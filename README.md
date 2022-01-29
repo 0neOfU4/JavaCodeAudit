@@ -6,7 +6,7 @@
 
 ## 关于我
 
-![AboutMe](images/AboutMe.png)
+<img src="images/AboutMe.png" alt="AboutMe" style="zoom:50%;" />
 
 欢迎添加VW与我进行技术交流
 
