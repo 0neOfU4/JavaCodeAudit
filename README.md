@@ -11,3 +11,5 @@
 欢迎添加VW与我进行技术交流
 
 每一次Star都是对我最大的鼓励
+
+[![Stargazers over time](https://starchart.cc/0neOfU4/JavaCodeAudit.svg)](https://starchart.cc/0neOfU4/JavaCodeAudit)
