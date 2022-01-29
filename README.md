@@ -6,7 +6,7 @@
 
 ## 关于我
 
-![AboutMe](img/AboutMe.png)
+![AboutMe](images/AboutMe.png)
 
 欢迎添加VW与我进行技术交流
 
