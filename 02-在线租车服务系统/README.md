@@ -5,7 +5,7 @@
 ## 项目地址
 https://down.chinaz.com/soft/38425.htm
 
-## 存在漏洞
+## 历史版本存在问题
 前台sql注入
 
 ## 审计文章
