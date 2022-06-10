@@ -8,9 +8,9 @@
 
 ## 关于我
 
-<img src="images/AboutMe.png" alt="AboutMe" style="zoom:50%;" />
+<img src="images/AboutMe.jpg" alt="AboutMe" style="zoom:50%;" />
 
-欢迎添加VW与我进行技术交流
+欢迎关注祝融安全，与我进行技术交流
 
 每一次Star都是对我最大的鼓励
 
