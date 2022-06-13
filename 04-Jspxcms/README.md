@@ -7,7 +7,9 @@ JTopCMS基于JavaEE标准研发,用于管理站群内容的内容管理软件。
 https://gitee.com/jspxcms/Jspxcms
 
 ## 历史版本存在问题
-XSS、SSRF、RCE
+XSS、SSRF、RCE（v9.0.0）
+
+后台目录穿越getshell（v9.5.1）
 
 ## 审计文章
 
