@@ -6,12 +6,6 @@
 
 资源来自互联网，侵删
 
-## 关于我
-
-<img src="images/AboutMe.jpg" alt="AboutMe" style="zoom:50%;" />
-
-欢迎关注 **祝融安全** 微信公众号，与我进行技术交流
-
 每一次Star都是对我最大的鼓励
 
 [![Stargazers over time](https://starchart.cc/0neOfU4/JavaCodeAudit.svg)](https://starchart.cc/0neOfU4/JavaCodeAudit)
